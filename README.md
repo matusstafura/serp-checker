@@ -35,3 +35,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Matus Stafura**
 - Email: kobe21@gmail.com
 - GitHub: [@matusstafura](https://github.com/matusstafura)
+# serp-checker
