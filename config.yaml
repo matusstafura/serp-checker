@@ -1,0 +1,27 @@
+stores:
+  - domain: "sc-domain:megamix.sk"
+    country: "svk"
+    keywords:
+      - "akusticke peny"
+      - "akusticka pena"
+      - "akusticke panely"
+      - "izolacna pena"
+      - "izolacne peny"
+      - "magnety"
+      - "sklenene flase"
+      - "skumavky"
+      - "tlmiace materiály"
+      - "medeny drot"
+      - "medene plechy"
+      - "medene pasky"
+      - "mosadzne plechy"
+      - "mosadzny drot"
+      - "tkaniny"
+      - "latky"
+      - "magnety"
+  
+  - domain: "sc-domain:megamix.shop"
+    country: "svk"
+    keywords:
+      - "kovové plechy"
+      - "hliníkové plechy"

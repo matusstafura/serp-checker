@@ -1,0 +1,30 @@
+-- See latest rankings
+SELECT domain, keyword, position, impressions, checked_at 
+FROM rankings 
+ORDER BY checked_at DESC 
+LIMIT 10;
+
+-- Track position changes for a keyword
+SELECT keyword, position, impressions, checked_at 
+FROM rankings 
+WHERE domain = 'sc-domain:megamix.sk' 
+  AND keyword = 'akustická pena'
+ORDER BY checked_at DESC;
+
+-- Best performing keywords (last check)
+SELECT keyword, position, clicks, impressions, ctr
+FROM rankings
+WHERE checked_at = (SELECT MAX(checked_at) FROM rankings)
+  AND domain = 'sc-domain:megamix.sk'
+ORDER BY position ASC;
+
+-- Position trends over time
+SELECT 
+    DATE(checked_at) as date,
+    keyword,
+    position,
+    impressions
+FROM rankings
+WHERE domain = 'sc-domain:megamix.sk'
+  AND keyword = 'akustická pena'
+ORDER BY date DESC;
