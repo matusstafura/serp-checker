@@ -59,13 +59,14 @@ func main() {
 			storeIdx+1, len(config.Stores), store.Domain, store.Country)
 		fmt.Printf("     Keywords to check: %d\n", len(store.Keywords))
 
-		for keywordIdx, keyword := range store.Keywords {
+		for keywordIdx, kw := range store.Keywords { // Changed from 'keyword' to 'kw'
 			totalKeywords++
-			fmt.Printf("  [%d/%d] '%s' ", keywordIdx+1, len(store.Keywords), keyword)
+			fmt.Printf("  [%d/%d] '%s' (vol: %d) ",
+				keywordIdx+1, len(store.Keywords), kw.Keyword, kw.Volume) // Show volume
 
-			// Check keyword
-			result := checker.CheckKeyword(store.Domain, keyword, store.Country,
-				startDate, endDate)
+			// Check keyword - pass volume parameter
+			result := checker.CheckKeyword(store.Domain, kw.Keyword, store.Country,
+				startDate, endDate, kw.Volume)
 
 			// Handle result
 			if result.Error != nil {

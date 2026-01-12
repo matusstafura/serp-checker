@@ -2,26 +2,207 @@ stores:
   - domain: "sc-domain:megamix.sk"
     country: "svk"
     keywords:
-      - "akusticke peny"
-      - "akusticka pena"
-      - "akusticke panely"
-      - "izolacna pena"
-      - "izolacne peny"
-      - "magnety"
-      - "sklenene flase"
-      - "skumavky"
-      - "tlmiace materiály"
-      - "medeny drot"
-      - "medene plechy"
-      - "medene pasky"
-      - "mosadzne plechy"
-      - "mosadzny drot"
-      - "tkaniny"
-      - "latky"
-      - "magnety"
+      - keyword: "akusticke peny"
+        volume: 100
+      - keyword: "akusticka pena"
+        volume: 
+      - keyword: "akusticke panely"
+        volume: 
+      - keyword: "izolacna pena"
+        volume: 
+      - keyword: "izolacne peny"
+        volume: 
+      - keyword: "magnety"
+        volume: 
+      - keyword: "sklenene flase"
+        volume: 
+      - keyword: "skumavky"
+        volume: 
+      - keyword: "tlmiace materiály"
+        volume: 
+      - keyword: "medeny drot"
+        volume: 
+      - keyword: "medene plechy"
+        volume: 
+      - keyword: "medene pasky"
+        volume: 
+      - keyword: "mosadzne plechy"
+        volume: 
+      - keyword: "mosadzny drot"
+        volume: 
+      - keyword: "tkaniny"
+        volume: 
+      - keyword: "latky"
+        volume: 
+      - keyword: "magnety"
+        volume: 
   
   - domain: "sc-domain:megamix.shop"
-    country: "svk"
+    country: "cze"
     keywords:
-      - "kovové plechy"
-      - "hliníkové plechy"
+      - keyword: "akusticke peny"
+        volume: 
+      - keyword: "akusticka pena"
+        volume: 
+      - keyword: "akusticke panely"
+        volume: 
+      - keyword: "izolacni pena"
+        volume: 
+      - keyword: "izolacni peny"
+        volume: 
+      - keyword: "magnety"
+        volume: 
+      - keyword: "sklenene lahve"
+        volume: 
+      - keyword: "zkumavky"
+        volume: 
+      - keyword: "tlumici materialy"
+        volume: 
+      - keyword: "medeny drat"
+        volume: 
+      - keyword: "medene plechy"
+        volume: 
+      - keyword: "medene pasky"
+        volume: 
+      - keyword: "mosazne plechy"
+        volume: 
+      - keyword: "mosazny drat"
+        volume: 
+      - keyword: "latky"
+        volume: 
+
+  - domain: "sc-domain:omegamix.hu"
+    country: "hun"
+    keywords:
+      - keyword: "Hangszigetelő"
+        volume: 
+      - keyword: "Hangszigetelő hab"
+        volume: 
+      - keyword: "Hangszigetelő panelek"
+        volume: 
+      - keyword: "Szigetelő hab"
+        volume: 
+      - keyword: "Szigetelő habok"
+        volume: 
+      - keyword: "Mágnesek"
+        volume: 
+      - keyword: "Üvegek"
+        volume: 
+      - keyword: "Kémcsövek"
+        volume: 
+      - keyword: "Hangelnyelő anyagok"
+        volume: 
+      - keyword: "Rézdrót"
+        volume: 
+      - keyword: "Rézlemez"
+        volume: 
+      - keyword: "Rézszalag"
+        volume: 
+      - keyword: "Sárgaréz lemez"
+        volume: 
+      - keyword: "Sárgaréz drót"
+        volume: 
+      - keyword: "Textíliák"
+        volume: 
+
+  - domain: "sc-domain:omegamix.at"
+    country: "aut"
+    keywords:
+      - keyword: "Schallschutz"
+        volume: 
+      - keyword: "Schallschutzschaum"
+        volume: 
+      - keyword: "Schallschutzpaneele"
+        volume: 
+      - keyword: "Dämmschaum"
+        volume: 
+      - keyword: "Dämmschäume"
+        volume: 
+      - keyword: "Magnete"
+        volume: 
+      - keyword: "Glasflaschen"
+        volume: 
+      - keyword: "Reagenzgläser"
+        volume: 
+      - keyword: "Schalldämmende Materialien"
+        volume: 
+      - keyword: "Kupferdraht"
+        volume: 
+      - keyword: "Kupferbleche"
+        volume: 
+      - keyword: "Kupferbänder"
+        volume: 
+      - keyword: "Messingbleche"
+        volume: 
+      - keyword: "Messingdraht"
+        volume: 
+      - keyword: "Stoffe"
+        volume: 
+
+  - domain: "sc-domain:omegamix.nl"
+    country: "nld"
+    keywords:
+      - keyword: "Geluidsisolatie"
+        volume: 
+      - keyword: "Geluidsisolerend schuim"
+        volume: 
+      - keyword: "Geluidsisolerende panelen"
+        volume: 
+      - keyword: "Isolatieschuim"
+        volume: 
+      - keyword: "Isolatieschuimen"
+        volume: 
+      - keyword: "Magneten"
+        volume: 
+      - keyword: "Glazen flessen"
+        volume: 
+      - keyword: "Reageerbuizen"
+        volume: 
+      - keyword: "Geluidsabsorberende materialen"
+        volume: 
+      - keyword: "Koperdraad"
+        volume: 
+      - keyword: "Koperplaten"
+        volume: 
+      - keyword: "Kopertape"
+        volume: 
+      - keyword: "Messingplaten"
+        volume: 
+      - keyword: "Messingdraad"
+        volume: 
+      - keyword: "Stoffen"
+        volume: 
+
+  - domain: "sc-domain:omegamix.de"
+    country: "deu"
+    keywords:
+      - keyword: "Schallschutz"
+        volume: 
+      - keyword: "Schallschutzschaum"
+        volume: 
+      - keyword: "Schallschutzpaneele"
+        volume: 
+      - keyword: "Dämmschaum"
+        volume: 
+      - keyword: "Dämmschäume"
+        volume: 
+      - keyword: "Magnete"
+        volume: 
+      - keyword: "Glasflaschen"
+        volume: 
+      - keyword: "Reagenzgläser"
+        volume: 
+      - keyword: "Schalldämmende Materialien"
+        volume: 
+      - keyword: "Kupferdraht"
+        volume: 
+      - keyword: "Kupferbleche"
+        volume: 
+      - keyword: "Kupferbänder"
+        volume: 
+      - keyword: "Messingbleche"
+        volume: 
+      - keyword: "Messingdraht"
+        volume: 
+      - keyword: "Stoffe"
+        volume: 
