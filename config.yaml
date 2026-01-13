@@ -3,206 +3,218 @@ stores:
     country: "svk"
     keywords:
       - keyword: "akusticke peny"
-        volume: 100
+        volume: 110
       - keyword: "akusticka pena"
-        volume: 
+        volume: 880
       - keyword: "akusticke panely"
-        volume: 
+        volume: 2900
+      - keyword: "akusticke lamely"
+        volume: 320
       - keyword: "izolacna pena"
-        volume: 
-      - keyword: "izolacne peny"
-        volume: 
+        volume: 260
       - keyword: "magnety"
-        volume: 
+        volume: 1000
+      - keyword: "magnety na chladnicku"
+        volume: 320
+      - keyword: "neodymovy magnet"
+        volume: 140
+      - keyword: "magnety na tabulu"
+        volume: 210
       - keyword: "sklenene flase"
-        volume: 
+        volume: 210
       - keyword: "skumavky"
-        volume: 
-      - keyword: "tlmiace materiály"
-        volume: 
+        volume: 170
       - keyword: "medeny drot"
-        volume: 
+        volume: 110
+      - keyword: "medeny plech"
+        volume: 110
       - keyword: "medene plechy"
-        volume: 
+        volume: 20
+      - keyword: "medena paska"
+        volume: 170
       - keyword: "medene pasky"
-        volume: 
+        volume: 10
       - keyword: "mosadzne plechy"
-        volume: 
+        volume: 10
       - keyword: "mosadzny drot"
-        volume: 
+        volume: 20
       - keyword: "tkaniny"
-        volume: 
+        volume: 260
       - keyword: "latky"
-        volume: 
-      - keyword: "magnety"
-        volume: 
+        volume: 4400
   
   - domain: "sc-domain:megamix.shop"
     country: "cze"
     keywords:
       - keyword: "akusticke peny"
-        volume: 
+        volume: 70
       - keyword: "akusticka pena"
-        volume: 
+        volume: 720
       - keyword: "akusticke panely"
-        volume: 
+        volume: 9900
       - keyword: "izolacni pena"
-        volume: 
-      - keyword: "izolacni peny"
-        volume: 
+        volume: 140
       - keyword: "magnety"
-        volume: 
+        volume: 2900
+      - keyword: "sklenena lahev"
+        volume: 1300
       - keyword: "sklenene lahve"
-        volume: 
+        volume: 260
+      - keyword: "zkumavka"
+        volume: 1600        
       - keyword: "zkumavky"
-        volume: 
-      - keyword: "tlumici materialy"
-        volume: 
+        volume: 590
+      - keyword: "neodymové magnety"
+        volume: 2400
       - keyword: "medeny drat"
         volume: 
-      - keyword: "medene plechy"
-        volume: 
-      - keyword: "medene pasky"
-        volume: 
-      - keyword: "mosazne plechy"
-        volume: 
+      - keyword: "medene plech"
+        volume: 480
+      - keyword: "medena paska"
+        volume: 260
       - keyword: "mosazny drat"
-        volume: 
+        volume: 20
       - keyword: "latky"
-        volume: 
+        volume: 5400
 
   - domain: "sc-domain:omegamix.hu"
     country: "hun"
     keywords:
-      - keyword: "Hangszigetelő"
-        volume: 
-      - keyword: "Hangszigetelő hab"
-        volume: 
-      - keyword: "Hangszigetelő panelek"
-        volume: 
-      - keyword: "Szigetelő hab"
-        volume: 
-      - keyword: "Szigetelő habok"
-        volume: 
-      - keyword: "Mágnesek"
-        volume: 
-      - keyword: "Üvegek"
-        volume: 
-      - keyword: "Kémcsövek"
-        volume: 
-      - keyword: "Hangelnyelő anyagok"
-        volume: 
-      - keyword: "Rézdrót"
-        volume: 
-      - keyword: "Rézlemez"
-        volume: 
-      - keyword: "Rézszalag"
-        volume: 
-      - keyword: "Sárgaréz lemez"
-        volume: 
-      - keyword: "Sárgaréz drót"
-        volume: 
-      - keyword: "Textíliák"
-        volume: 
+      - keyword: hangszigetelő panel
+        volume: 2400
+      - keyword: hangszigetelő szivacs
+        volume: 1600
+      - keyword: "hangszigetelő"
+        volume: 1000
+      - keyword: "hangszigetelő hab"
+        volume: 70
+      - keyword: "hangszigetelő panelek"
+        volume: 70
+      - keyword: "szigetelő hab"
+        volume: 140
+      - keyword: "neodímium mágnes"
+        volume: 1000      
+      - keyword: "mágnesek"
+        volume: 170
+      - keyword: "pálinkás üvegek"
+        volume: 1900
+      - keyword: "rézdrót"
+        volume: 210
+      - keyword: "rézlemez"
+        volume: 170
+      - keyword: "rézszalag"
+        volume: 110
+      - keyword: "sárgaréz drót"
+        volume: 30
+      - keyword: "szövetek"
+        volume: 880
 
   - domain: "sc-domain:omegamix.at"
     country: "aut"
     keywords:
-      - keyword: "Schallschutz"
-        volume: 
-      - keyword: "Schallschutzschaum"
-        volume: 
-      - keyword: "Schallschutzpaneele"
-        volume: 
-      - keyword: "Dämmschaum"
-        volume: 
-      - keyword: "Dämmschäume"
-        volume: 
-      - keyword: "Magnete"
-        volume: 
-      - keyword: "Glasflaschen"
-        volume: 
-      - keyword: "Reagenzgläser"
-        volume: 
-      - keyword: "Schalldämmende Materialien"
-        volume: 
-      - keyword: "Kupferdraht"
-        volume: 
-      - keyword: "Kupferbleche"
-        volume: 
-      - keyword: "Kupferbänder"
-        volume: 
-      - keyword: "Messingbleche"
-        volume: 
-      - keyword: "Messingdraht"
-        volume: 
-      - keyword: "Stoffe"
-        volume: 
+      - keyword: "schallschutz"
+        volume: 480
+      - keyword: "schallschutzplatten"
+        volume: 720
+      - keyword: "lärmschutz wand"
+        volume: 720
+      - keyword: "schalldämmung wand"
+        volume: 590
+      - keyword: "akustik paneele"
+        volume: 22200
+      - keyword: akustik paneel
+        volume: 880
+      - keyword: akustik panel
+        volume: 880
+      - keyword: akustik paneele wand
+        volume: 210
+      - keyword: "magnete"
+        volume: 1000      
+      - keyword: "magnete neodym"
+        volume: 1300
+      - keyword: "glasflaschen"
+        volume: 800
+      - keyword: "reagenzgläser"
+        volume: 1300
+      - keyword: "kupferdraht"
+        volume: 320
+      - keyword: "kupferbleche"
+        volume: 260
+      - keyword: "kupferband"
+        volume: 210
+      - keyword: "messingbleche"
+        volume: 110
+      - keyword: "messingdraht"
+        volume: 50
 
   - domain: "sc-domain:omegamix.nl"
     country: "nld"
     keywords:
-      - keyword: "Geluidsisolatie"
+      - keyword: "geluidsisolatie"
         volume: 
-      - keyword: "Geluidsisolerend schuim"
-        volume: 
-      - keyword: "Geluidsisolerende panelen"
-        volume: 
-      - keyword: "Isolatieschuim"
-        volume: 
-      - keyword: "Isolatieschuimen"
-        volume: 
+      - keyword: "Akoestisch schuim"
+        volume: 480
+      - keyword: "Akoestische panelen"
+        volume: 27100
+      - keyword: "akoestische platen"
+        volume: 590
+      - keyword: "Butyl"
+        volume: 320
+      - keyword: "Isolatiemat"
+        volume: 390
+      - keyword: "Polyethyleen"
+        volume: 1900
+      - keyword: "neodymium magneet"
+        volume: 1300
       - keyword: "Magneten"
-        volume: 
+        volume: 4400
       - keyword: "Glazen flessen"
-        volume: 
-      - keyword: "Reageerbuizen"
-        volume: 
-      - keyword: "Geluidsabsorberende materialen"
-        volume: 
-      - keyword: "Koperdraad"
-        volume: 
-      - keyword: "Koperplaten"
-        volume: 
-      - keyword: "Kopertape"
-        volume: 
-      - keyword: "Messingplaten"
-        volume: 
-      - keyword: "Messingdraad"
-        volume: 
-      - keyword: "Stoffen"
-        volume: 
+        volume: 3600
+      - keyword: "Reageerbuisjes"
+        volume: 1300
+      - keyword: Koperdraad
+        volume: 1600
+      - keyword: Koper plat
+        volume: 590
+      - keyword: Kopertape
+        volume: 590
+      - keyword: Messing draad
+        volume: 110
 
   - domain: "sc-domain:omegamix.de"
-    country: "deu"
+    country: "aut"
     keywords:
-      - keyword: "Schallschutz"
-        volume: 
-      - keyword: "Schallschutzschaum"
-        volume: 
-      - keyword: "Schallschutzpaneele"
-        volume: 
-      - keyword: "Dämmschaum"
-        volume: 
-      - keyword: "Dämmschäume"
-        volume: 
-      - keyword: "Magnete"
-        volume: 
-      - keyword: "Glasflaschen"
-        volume: 
-      - keyword: "Reagenzgläser"
-        volume: 
-      - keyword: "Schalldämmende Materialien"
-        volume: 
-      - keyword: "Kupferdraht"
-        volume: 
-      - keyword: "Kupferbleche"
-        volume: 
-      - keyword: "Kupferbänder"
-        volume: 
-      - keyword: "Messingbleche"
-        volume: 
-      - keyword: "Messingdraht"
-        volume: 
-      - keyword: "Stoffe"
-        volume: 
+      - keyword: "schallschutz"
+        volume: 5400
+      - keyword: "schallschutzplatten"
+        volume: 8100
+      - keyword: "lärmschutz wand"
+        volume: 3600
+      - keyword: "schalldämmung wand"
+        volume: 3600
+      - keyword: "akustik paneele"
+        volume: 201000
+      - keyword: akustik paneel
+        volume: 6600
+      - keyword: akustik panel
+        volume: 6600
+      - keyword: akustik wandpaneele
+        volume: 6600
+      - keyword: "magnete"
+        volume: 14800      
+      - keyword: "magnete neodym"
+        volume: 12100
+      - keyword: "glasflaschen"
+        volume: 8100
+      - keyword: "reagenzgläser"
+        volume: 12100
+      - keyword: "kupferdraht"
+        volume: 2400
+      - keyword: "kupferbleche"
+        volume: 2400
+      - keyword: "kupferband"
+        volume: 1900
+      - keyword: "messingbleche"
+        volume: 590
+      - keyword: "messingdraht"
+        volume: 390
