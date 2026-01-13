@@ -80,9 +80,9 @@ stores:
   - domain: "sc-domain:omegamix.hu"
     country: "hun"
     keywords:
-      - keyword: hangszigetelő panel
+      - keyword: "hangszigetelő panel"
         volume: 2400
-      - keyword: hangszigetelő szivacs
+      - keyword: "hangszigetelő szivacs"
         volume: 1600
       - keyword: "hangszigetelő"
         volume: 1000
@@ -122,11 +122,11 @@ stores:
         volume: 590
       - keyword: "akustik paneele"
         volume: 22200
-      - keyword: akustik paneel
+      - keyword: "akustik paneel"
         volume: 880
-      - keyword: akustik panel
+      - keyword: "akustik panel"
         volume: 880
-      - keyword: akustik paneele wand
+      - keyword: "akustik paneele wand"
         volume: 210
       - keyword: "magnete"
         volume: 1000      
@@ -152,33 +152,33 @@ stores:
     keywords:
       - keyword: "geluidsisolatie"
         volume: 
-      - keyword: "Akoestisch schuim"
+      - keyword: "akoestisch schuim"
         volume: 480
-      - keyword: "Akoestische panelen"
+      - keyword: "akoestische panelen"
         volume: 27100
       - keyword: "akoestische platen"
         volume: 590
-      - keyword: "Butyl"
+      - keyword: "butyl"
         volume: 320
-      - keyword: "Isolatiemat"
+      - keyword: "isolatiemat"
         volume: 390
-      - keyword: "Polyethyleen"
+      - keyword: "polyethyleen"
         volume: 1900
       - keyword: "neodymium magneet"
         volume: 1300
-      - keyword: "Magneten"
+      - keyword: "magneten"
         volume: 4400
-      - keyword: "Glazen flessen"
+      - keyword: "glazen flessen"
         volume: 3600
-      - keyword: "Reageerbuisjes"
+      - keyword: "reageerbuisjes"
         volume: 1300
-      - keyword: Koperdraad
+      - keyword: "koperdraad"
         volume: 1600
-      - keyword: Koper plat
+      - keyword: "koper plate"
         volume: 590
-      - keyword: Kopertape
+      - keyword: "kopertape"
         volume: 590
-      - keyword: Messing draad
+      - keyword: "messing draad"
         volume: 110
 
   - domain: "sc-domain:omegamix.de"
@@ -194,11 +194,11 @@ stores:
         volume: 3600
       - keyword: "akustik paneele"
         volume: 201000
-      - keyword: akustik paneel
+      - keyword: "akustik paneel"
         volume: 6600
-      - keyword: akustik panel
+      - keyword: "akustik panel"
         volume: 6600
-      - keyword: akustik wandpaneele
+      - keyword: "akustik wandpaneele"
         volume: 6600
       - keyword: "magnete"
         volume: 14800      
