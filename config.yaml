@@ -22,8 +22,12 @@ stores:
         volume: 210
       - keyword: "sklenene flase"
         volume: 210
+      - keyword: "skumavka"
+        volume: 390
       - keyword: "skumavky"
         volume: 170
+      - keyword: "skumavka na moc"
+        volume: 880
       - keyword: "medeny drot"
         volume: 110
       - keyword: "medeny plech"
@@ -43,7 +47,7 @@ stores:
       - keyword: "latky"
         volume: 4400
   
-  - domain: "sc-domain:megamix.shop"
+  - domain: "sc-domain:omegamix.cz"
     country: "cze"
     keywords:
       - keyword: "akusticke peny"
@@ -80,17 +84,17 @@ stores:
   - domain: "sc-domain:omegamix.hu"
     country: "hun"
     keywords:
-      - keyword: "hangszigetelő panel"
+      - keyword: "hangszigetelo panel"
         volume: 2400
-      - keyword: "hangszigetelő szivacs"
+      - keyword: "hangszigetelo szivacs"
         volume: 1600
-      - keyword: "hangszigetelő"
+      - keyword: "hangszigetelo"
         volume: 1000
-      - keyword: "hangszigetelő hab"
+      - keyword: "hangszigetelo hab"
         volume: 70
-      - keyword: "hangszigetelő panelek"
+      - keyword: "hangszigetelo panelek"
         volume: 70
-      - keyword: "szigetelő hab"
+      - keyword: "szigetelo hab"
         volume: 140
       - keyword: "neodímium mágnes"
         volume: 1000      
@@ -98,6 +102,8 @@ stores:
         volume: 170
       - keyword: "pálinkás üvegek"
         volume: 1900
+      - keyword: "kémcső"
+        volume: 1000      
       - keyword: "rézdrót"
         volume: 210
       - keyword: "rézlemez"
@@ -116,9 +122,9 @@ stores:
         volume: 480
       - keyword: "schallschutzplatten"
         volume: 720
-      - keyword: "lärmschutz wand"
+      - keyword: "larmschutz wand"
         volume: 720
-      - keyword: "schalldämmung wand"
+      - keyword: "schalldammung wand"
         volume: 590
       - keyword: "akustik paneele"
         volume: 22200
@@ -134,7 +140,7 @@ stores:
         volume: 1300
       - keyword: "glasflaschen"
         volume: 800
-      - keyword: "reagenzgläser"
+      - keyword: "reagenzglaser"
         volume: 1300
       - keyword: "kupferdraht"
         volume: 320
@@ -151,7 +157,7 @@ stores:
     country: "nld"
     keywords:
       - keyword: "geluidsisolatie"
-        volume: 
+        volume: 6600
       - keyword: "akoestisch schuim"
         volume: 480
       - keyword: "akoestische panelen"
@@ -184,13 +190,19 @@ stores:
   - domain: "sc-domain:omegamix.de"
     country: "aut"
     keywords:
+      - keyword: "akustikschaum"
+        volume: 880
+      - keyword: "dichtungsplatten"
+        volume: 170
+      - keyword: "kupferblech"
+        volume: 2400
       - keyword: "schallschutz"
         volume: 5400
       - keyword: "schallschutzplatten"
         volume: 8100
-      - keyword: "lärmschutz wand"
+      - keyword: "larmschutz wand"
         volume: 3600
-      - keyword: "schalldämmung wand"
+      - keyword: "schalldammung wand"
         volume: 3600
       - keyword: "akustik paneele"
         volume: 201000
@@ -206,7 +218,7 @@ stores:
         volume: 12100
       - keyword: "glasflaschen"
         volume: 8100
-      - keyword: "reagenzgläser"
+      - keyword: "reagenzglaser"
         volume: 12100
       - keyword: "kupferdraht"
         volume: 2400
@@ -218,3 +230,4 @@ stores:
         volume: 590
       - keyword: "messingdraht"
         volume: 390
+
